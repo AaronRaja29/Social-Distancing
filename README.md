@@ -19,4 +19,8 @@ Things needed to be improved :
    - https://pjreddie.com/media/files/yolov3.weights
 * For slower CPUs, use yolov3-tiny (link in the code comments)
 * Install all the dependenices
-* Run social_distancing_analyser.py or social_distancing_analyser 2.0.py
+* Run social_distancing_analyser.py or social_distancing_analyser1.py
+
+# Output
+
+https://drive.google.com/file/d/1U6hK06FcCkzvfTY72oriPxP7fFWzLqln/view?usp=sharing
